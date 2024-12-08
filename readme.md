@@ -1,7 +1,7 @@
 # Bug Bounty Kafasıyla: Web Güvenliği Eğitimi 🚀
 
 Merhaba!  
-Bu eğitim, web güvenliği dünyasına sağlam bir giriş yapmak isteyen herkes için tasarlandı. Burada sadece teorik bilgilerle yetinmeyeceğiz; aynı zamanda pratik yapacak, saldırganların nasıl düşündüğünü öğrenecek ve bir bug bounty avcısı gibi hareket etmeyi deneyimleyeceğiz.
+Bu eğitim, web güvenliği dünyasına sağlam bir giriş yapmak isteyen herkes için tasarlandı. Burada sadece teorik bilgilerle yetinmeyeceğiz; aynı zamanda pratik yapacak, saldırganların nasıl düşündüğünü öğrenecek ve bir bug bountyci gibi hareket etmeyi deneyimleyeceğiz.
 
 Amacımız, web uygulamalarındaki güvenlik açıklarını keşfetmek ve bu açıkları hem sömürmeyi hem de koruma altına almayı öğrenmek. Adım adım ilerleyerek, OWASP Top 10'dan başlayıp daha derin konulara dalacağız.  
 
