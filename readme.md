@@ -19,4 +19,4 @@ Unutma: Güvenlik açıklarını anlamak, savunma stratejilerini güçlendirmek 
 ---
 
 Bu eğitim, teorik bilgileri pratiğe dökerek öğrenmen için tasarlandı. Hazırsan başlayalım! 😊  
-Her adım, ayrı bir dosyada açıklanmıştır. İlk adıma geçmek için [buraya tıklayabilirsin](./1-adim.md).
+Her adım, ayrı bir dosyada açıklanmıştır. İlk adıma geçmek için [buraya tıklayabilirsin](./1.md).
