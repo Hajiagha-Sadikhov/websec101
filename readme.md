@@ -12,7 +12,7 @@ Unutma: Güvenlik açıklarını anlamak, savunma stratejilerini güçlendirmek 
 ## Neden Bu Eğitimi Almalıyım?
 
 - Web uygulamalarındaki en yaygın açıkları anlamak ve pratik yapmak.
-- Bir bug bounty avcısı gibi düşünmeyi öğrenmek.
+- Bir bug bountyci gibi düşünmeyi öğrenmek.
 - Gerçek dünyada güvenlik hatalarını nasıl tespit edeceğini ve raporlayacağını görmek.
 - Hem saldırı hem savunma tekniklerini keşfetmek.
 
