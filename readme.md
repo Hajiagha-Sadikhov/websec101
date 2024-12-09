@@ -19,7 +19,7 @@ Unutma: Güvenlik açıklarını anlamak, savunma stratejilerini güçlendirmek 
 ---
 
 Bu eğitim, teorik bilgileri pratiğe dökerek öğrenmen için tasarlandı. Hazırsan başlayalım! 😊  
-Her adım, ayrı bir dosyada açıklanmıştır. İlk adıma geçmek için 
+Her adım, ayrı bir dosyada açıklanmıştır. 
 - [Web Güvenliğinin Temelini Anlamak](./1.md)
 - [SQL Injection – Veri Tabanının Kapısını Çalmak](./2.md)
 - [Cross-Site Scripting (XSS) – Tarayıcının Zaaflarını Kullanmak](./3.md)
