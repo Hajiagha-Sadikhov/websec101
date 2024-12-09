@@ -20,20 +20,20 @@ Unutma: Güvenlik açıklarını anlamak, savunma stratejilerini güçlendirmek 
 
 Bu eğitim, teorik bilgileri pratiğe dökerek öğrenmen için tasarlandı. Hazırsan başlayalım! 😊  
 Her adım, ayrı bir dosyada açıklanmıştır. İlk adıma geçmek için 
-- [1](./1.md)
-- [2](./2.md)
-- [3](./3.md)
-- [4](./4.md)
-- [5](./5.md)
-- [6](./6.md)
-- [7](./7.md)
-- [8](./8.md)
-- [9](./9.md)
-- [10](./10.md)
+- [Web Güvenliğinin Temelini Anlamak](./1.md)
+- [SQL Injection – Veri Tabanının Kapısını Çalmak](./2.md)
+- [Cross-Site Scripting (XSS) – Tarayıcının Zaaflarını Kullanmak](./3.md)
+- [Broken Authentication – Kimlik Doğrulama Açıkları](./4.md)
+- [Web Uygulamalarında Güvenlik Mimarisi](./5.md)
+- [Gerçek Hayattan Örnekler ve Pratik Alanlar](./6.md)
+- [İleri Seviye Web Saldırı Teknikleri (XXE, CSRF, SSRF)](./7.md)
+- [Sürekli Güvenlik, DevSecOps ve Güvenlik Otomasyonu](./8.md)
+- [Bulut Yerel Mimariler ve Güvenlik](./9.md)
+- [Kaynaklarla Pekiştir ve Yolculuğunu Sürdür](./10.md)
 
 **Bonus:**
 
-- [bonus1](./bonus1.md)
-- [bonus2](./bonus2.md)
-- [bonus3](./bonus3.md)
+- [API Güvenliği – Modern İletişimin Kalkanı](./bonus1.md)
+- [Token Tabanlı Kimlik Doğrulama ve Güvenlik](./bonus2.md)
+- [Oturum Yönetimi, Tokenlar, Sertifikalar ve Modern Güvenlik Yaklaşımları](./bonus3.md)
 
