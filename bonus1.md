@@ -50,7 +50,7 @@ SQLi, XSS, Command Injection gibi klasik sorunlar API’lerde de geçerlidir. Ku
 
 **4. Güvenli İletişim (HTTPS) ve Şifreleme:**  
 - Tüm veri alışverişini TLS üzerinden yap.  
-- Hassas verileri sunucu tarafında ya da veritabanında şifrele.
+- Hassas verileri sunucu tarafında ya da veri tabanında şifrele.
 
 **5. İzleme, Loglama ve Anomali Tespiti:**  
 - API çağrılarını logla, kim neye ne zaman erişiyor bil.  
