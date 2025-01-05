@@ -36,4 +36,5 @@ Her adım, ayrı bir dosyada açıklanmıştır.
 - [API Güvenliği – Modern İletişimin Kalkanı](./bonus1.md)
 - [Token Tabanlı Kimlik Doğrulama ve Güvenlik](./bonus2.md)
 - [Oturum Yönetimi, Tokenlar, Sertifikalar ve Modern Güvenlik Yaklaşımları](./bonus3.md)
+- [2fa bypass hakkında her şey](./bonus4.md)
 
