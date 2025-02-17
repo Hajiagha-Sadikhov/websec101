@@ -5,7 +5,7 @@ Bu eğitim, web güvenliği dünyasına sağlam bir giriş yapmak isteyen herkes
 
 Amacımız, web uygulamalarındaki güvenlik açıklarını keşfetmek ve bu açıkları hem sömürmeyi hem de koruma altına almayı öğrenmek. Adım adım ilerleyerek, OWASP Top 10'dan başlayıp daha derin konulara dalacağız.  
 
-Unutma: Güvenlik açıklarını anlamak, savunma stratejilerini güçlendirmek için en önemli adımdır. Kendine bir kahve hazırla ve öğrenme sürecinden keyif al! ☕🔥  
+Unutma: Güvenlik açıklarını anlamak, savunma stratejilerini güçlendirmenin en önemli adımıdır. Bunu, özellikle İngilizce olmak üzere sürekli öğrenmeyle birleştirin, çünkü daha geniş bir kaynak ve araç yelpazesine kapı açar. O halde kendinize bir kahve demleyin ve öğrenme sürecinden keyif al! ☕🔥  
 
 ---
 
@@ -37,4 +37,4 @@ Her adım, ayrı bir dosyada açıklanmıştır.
 - [Token Tabanlı Kimlik Doğrulama ve Güvenlik](./bonus2.md)
 - [Oturum Yönetimi, Tokenlar, Sertifikalar ve Modern Güvenlik Yaklaşımları](./bonus3.md)
 - [2fa bypass hakkında her şey](./bonus4.md)
-
+- [Saldırganların bir web uygulamasını hedef alma süreci](./bonus5.md)
