@@ -38,3 +38,4 @@ Her adım, ayrı bir dosyada açıklanmıştır.
 - [Oturum Yönetimi, Tokenlar, Sertifikalar ve Modern Güvenlik Yaklaşımları](./bonus3.md)
 - [2fa bypass hakkında her şey](./bonus4.md)
 - [Saldırganların bir web uygulamasını hedef alma süreci](./11.md)
+- [Web Uygulamasını Koruma Stratejileri](./13.md)
